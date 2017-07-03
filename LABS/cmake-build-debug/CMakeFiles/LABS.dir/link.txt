@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/LABS.dir/LAB1/omp1.c.o  -o LABS 

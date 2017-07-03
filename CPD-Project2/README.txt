@@ -1,0 +1,1 @@
+It's necessary to compile with the -std=c99 flag
